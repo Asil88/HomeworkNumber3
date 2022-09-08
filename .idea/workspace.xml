@@ -5,27 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fc8dadf-0048-42c8-9989-ad0c96faf623" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeworkNumber3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,21 +45,7 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task14">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="HomeworkNumber3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task11" />
-      <module name="HomeworkNumber3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Task4">
     <configuration name="Task12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task12" />
       <module name="HomeworkNumber3" />
@@ -98,13 +67,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task2" />
+      <module name="HomeworkNumber3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task4" />
+      <module name="HomeworkNumber3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task14" />
         <item itemvalue="Application.Task13" />
         <item itemvalue="Application.Task12" />
-        <item itemvalue="Application.Task11" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -116,12 +99,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662496142756</updated>
-      <workItem from="1662496144013" duration="21466000" />
+      <workItem from="1662496144013" duration="23917000" />
     </task>
+    <task id="LOCAL-00001" summary="ДЗ №3">
+      <created>1662557918074</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662557918074</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ДЗ №3" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ №3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -143,7 +138,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Task14.java</url>
-          <line>4</line>
+          <line>3</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>

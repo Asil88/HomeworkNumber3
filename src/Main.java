@@ -44,9 +44,9 @@ public class Main {
     public static void Task2() {
         Scanner scanner = new Scanner(System.in);
         int month = scanner.nextInt();
-        Integer mo = 1;
 
-        if (month == 12 && month <= 2 && month > 0) {
+
+        if (month == 12 || month <= 2 && month > 0) {
             System.out.println("Зима");
         } else if (month > 2 && month <= 5) {
             System.out.println("Весна");
